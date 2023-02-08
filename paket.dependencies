@@ -7,19 +7,20 @@ nuget Expecto.FsCheck
 nuget Expecto.Hopac
 
 nuget Fable.SimpleHttp
+nuget Farmer
 nuget Feliz.Markdown
 nuget Feliz.Router
 nuget FSharp.Core
 
 nuget Fake.Core.Target
 
-nuget Fable.Browser.DOM 
-nuget Fable.Core 
-nuget Fable.Fetch 
+nuget Fable.Browser.DOM
+nuget Fable.Core
+nuget Fable.Fetch
 nuget Fable.Elmish
 nuget Fable.Elmish.React
 nuget Fable.Elmish.Debugger
-nuget Fable.Elmish.HMR 
+nuget Fable.Elmish.HMR
 nuget Fable.Mocha
 nuget Fable.React
 nuget Fable.Remoting.Giraffe
