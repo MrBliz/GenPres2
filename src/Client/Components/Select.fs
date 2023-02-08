@@ -54,7 +54,7 @@ module Select =
                 [| box input.value |]
             )
 
-        let defaultVal = 
+        let defaultVal =
             match input.items with
             | [one] -> one |> string
             | _ -> ""
